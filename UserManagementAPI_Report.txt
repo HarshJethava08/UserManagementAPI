@@ -1,0 +1,31 @@
+✨ Title: User Management API using ASP.NET Core
+
+🔹 Project Description
+
+I developed a User Management API using ASP.NET Core to perform CRUD operations such as creating, retrieving, updating, and deleting user records.
+
+🔹 Copilot Usage
+
+Microsoft Copilot helped generate the API controller and CRUD operations. It suggested code for GET, POST, PUT, and DELETE methods, reducing development time and improving code quality.
+
+🔹 API Testing
+
+I tested the API using Swagger. All endpoints worked correctly:
+
+GET returned users
+
+POST added users
+
+PUT updated users
+
+DELETE removed users
+
+🔹 Tools Used
+
+ASP.NET Core
+
+Visual Studio Code
+
+GitHub Copilot
+
+Swagger
